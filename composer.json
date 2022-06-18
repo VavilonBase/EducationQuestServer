@@ -1,0 +1,8 @@
+{
+    "require": {
+        "ramsey/uuid": "^4.2",
+        "php-http/curl-client": "1.4.1",
+        "firebase/php-jwt": "^6.1",
+        "paragonie/sodium_compat": "^1.17"
+    }
+}
